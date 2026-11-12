@@ -1,0 +1,12 @@
+# Scratch & Temporary Frames
+frames/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
